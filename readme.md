@@ -9,7 +9,7 @@
 ### 🌟 Overview
 Welcome to the **CSS Parallax Scrolling Website**! This project demonstrates how to create a dynamic "3D depth" effect on a 2D web page. By using **Vanilla JavaScript** to manipulate multiple image layers at different speeds during scroll, we achieve a high-end visual experience.
 
-[📺 Watch Live Demo](https://github.io)
+[📺 Watch Live Demo](https://juniordevelopper.github.io/CSS-Parallax-Scrolling-Website/)
 
 ---
 
